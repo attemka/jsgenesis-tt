@@ -5,11 +5,18 @@
 /.pnp
 .pnp.js
 
+#IDE
+.idea
+.vscode
+
 # testing
 /coverage
 
 # production
 /build
+
+#graphQL schems
+src/__generated__
 
 # misc
 .DS_Store

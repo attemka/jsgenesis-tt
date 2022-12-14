@@ -1,0 +1,5 @@
+{
+  "exclude": [
+    "src/__generated__"
+  ]
+}
